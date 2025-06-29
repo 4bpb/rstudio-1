@@ -81,7 +81,7 @@
     "node-addon-api": "8.3.1",
     "node-system-fonts": "1.0.1",
     "properties-reader": "2.3.0",
-    "semver": "7.7.1",
+    "semver": "7.7.2",
     "uuid": "11.1.0",
     "vue": "3.5.13",
     "winston": "3.17.0",
