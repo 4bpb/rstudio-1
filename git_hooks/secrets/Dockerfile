@@ -1,4 +1,4 @@
-FROM python:3.13.0b4-bookworm
+FROM python:3.14.2-bookworm
 
 COPY requirements.txt /tmp/requirements.txt
 
